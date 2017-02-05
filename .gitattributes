@@ -1,2 +1,2 @@
-*.php linguist-language=Java
+*.php linguist-language=Laravel
 jquery.js linguist-vendored=false
