@@ -1,2 +1,2 @@
-*.php linguist-vendored
+*.php linguist-language=Java
 jquery.js linguist-vendored=false
